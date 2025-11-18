@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raspberry Pi ELRS Robot Controller
 
 This project turns a Raspberry Pi into a controller for a simple robot using an ExpressLRS (ELRS) RC receiver and an L298N motor driver.
@@ -93,3 +94,7 @@ python main.py
 The script will start, and if it receives a signal from your ELRS transmitter, your robot should now be controllable!
 
 To stop the program, press `Ctrl+C`. The script will automatically stop the motors and clean up the GPIO resources.
+=======
+# raspberry-pi-elrs-robot
+raspberry-pi-elrs-robot
+>>>>>>> 3b0cfa69401642805cfc836e320473c42d97d59a
